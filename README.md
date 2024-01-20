@@ -84,20 +84,20 @@ Extract from ROM disassembly
 
 Pattern lookup table
 
-00	A
-0B	B
-08	C
-07	D
-04	E
-02	F
-06	G
-03	H
-0A	I
-0C	J
-0E	K
-09	L
-0F	M
-0D	N
-01	O
-05	P
+    00	A
+    0B	B
+    08	C
+    07	D
+    04	E
+    02	F
+    06	G
+    03	H
+    0A	I
+    0C	J
+    0E	K
+    09	L
+    0F	M
+    0D	N
+    01	O
+    05	P
 

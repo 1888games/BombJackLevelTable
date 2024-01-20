@@ -1,5 +1,7 @@
 # BombJackLevelTable
 
+Extract from ROM disassembly
+
 ; DE38h - level meta data
 ;
 ; 64 6-byte records (ABCDEF).
